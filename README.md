@@ -10,19 +10,9 @@ Arada sırada kodlamayı seven bir insanım
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <!-- Diller -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
 </p>
-
----
-
-### 🎯 Profil Özetim
-* 💻 **Kullanıcı:** k10reren  
-* 🚀 **Aktiflik:** Geliştirici profili aktif.  
-
 
 
 
