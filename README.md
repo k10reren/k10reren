@@ -9,13 +9,11 @@ Arada sırada kodlamayı seven bir insanım
 
 ### 📊 GitHub İstatistikleri
 
-<div align="left">
-  <!-- Sol Taraftaki Güvenli ve Kararlı İstatistik Kartı -->
-  <img src="https://vercel.app" alt="GitHub Stats" height="165" />
-  
-  <!-- Sağ Taraftaki En Çok Kullanılan Diller Kartı -->
-  <img src="https://vercel.app" alt="Top Langs" height="165" />
-</div>
+<p align="left">
+  <img src="https://vercel.app" height="150" />
+  <img src="https://vercel.app" height="150" />
+</p>
+
 
 
 ### 📬 İletişim & Linkler
