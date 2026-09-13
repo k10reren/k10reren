@@ -9,11 +9,10 @@ Arada sırada kodlamayı seven bir insanım
 
 ### 📊 GitHub İstatistikleri
 
-<div align="left">
-  <!-- GitHub'ın önbelleğini zorla yenileyen güncel kartlar -->
-  <img src="https://vercel.app" height="150" />
-  <img src="https://vercel.app" height="150" />
-</div>
+<p align="left">
+  <img src="https://vercel.app" height="180" />
+</p>
+
 
 
 
