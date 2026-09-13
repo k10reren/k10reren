@@ -1,4 +1,4 @@
-# 👋 Selam, K_reren
+ # 👋 Selam, Ben K_reren
 Arada sırada kodlamaya çalışan bir insanoğluyum
 # 🎯 İlgi Alanları & Çalışmalar
 Sistem & Otomasyon: Discord & Oyun sunucusu entegrasyonları, bot otomasyonları, Linux sunucu yönetimi, Windows sunucu yönetimi.
