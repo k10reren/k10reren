@@ -7,11 +7,14 @@ Arada sırada kodlamayı seven bir insanım
 ### ⚒️ Bildiğim Diller
 * **Diller:** Python, C++, C#
 
-### 📊 GitHub İstatistikleri
+### 📊 Kullanılan Teknolojiler
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- Badgen.net ile oluşturulmuş kararlı teknoloji rozetleri -->
+  <img src="https://badgen.net" />
+  <img src="https://badgen.net" />
+  <img src="https://badgen.net" />
+  <img src="https://badgen.net" />
 </p>
 
 
