@@ -9,13 +9,7 @@ Arada sırada kodlamayı seven bir insanım
 
 ### 📊 GitHub İstatistikleri
 
-<p align="left">
-  <!-- Genel İstatistik Kartı (Karanlık Tema) -->
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  
-  <!-- En Çok Kullanılan Diller Kartı -->
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/k10reren/)
 
 ### 📬 İletişim & Linkler
 
