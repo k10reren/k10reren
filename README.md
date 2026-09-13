@@ -14,6 +14,7 @@ Tersine Mühendislik: bellek okuma/yazma ve offset analizleri.
 
 ## 🌐 Sosyal Medyalarım:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_reren) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@k_reren) 
+- Discord: `@k_reren`
 
 ### ✍️ Random Dev yazıları
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
