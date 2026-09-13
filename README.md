@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Selam, Ben K_reren
 
-<!--
-**k10reren/k10reren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arada sırada kodlamayı seven bir insanım
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚒️ Bildiğim Diller
+* **Diller:** Python, C++, C#
+
+### 📊 GitHub İstatistikleri
+
+<p align="left">
+  <!-- Genel İstatistik Kartı (Karanlık Tema) -->
+  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+  
+  <!-- En Çok Kullanılan Diller Kartı -->
+  <img src="https://vercel.app" alt="Top Langs" height="180" />
+</p>
+
+### 📬 İletişim & Linkler
+
+[![Discord](https://shields.io)](https://discord.gg)
+[![GitHub](https://shields.io)](https://github.com)
+
+* **Discord:** @kullanici_adiniz
+
+
