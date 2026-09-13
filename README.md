@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Selam, Ben K_reren
 Arada sırada kodlamaya çalışan bir insanoğluyum
 # 🎯 İlgi Alanları & Çalışmalar
