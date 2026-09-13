@@ -9,7 +9,7 @@ Arada sırada kodlamayı seven bir insanım
 
 ### 📊 GitHub İstatistikleri
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/k10reren/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k10reren&show_icons=true)
 
 ### 📬 İletişim & Linkler
 
