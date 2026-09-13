@@ -10,9 +10,14 @@ Arada sırada kodlamayı seven bir insanım
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://vercel.app" height="180" />
+  <!-- Diller -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
+---
 
 
 
