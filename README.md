@@ -9,13 +9,7 @@ Arada sırada kodlamayı seven bir insanım
 
 ### 📊 GitHub İstatistikleri
 
-<p align="left">
-  <!-- Sol Taraftaki Streak (Seri) İstatistik Kartı -->
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" height="165" />
-  
-  <!-- Sağ Taraftaki En Çok Kullanılan Diller Kartı -->
-  <img src="https://vercel.app" alt="Top Langs" height="165" />
-</p>
+![GitHub Streak Stats](https://herokuapp.com) ![Top Langs](https://vercel.app)
 
 
 ### 📬 İletişim & Linkler
