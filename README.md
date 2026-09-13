@@ -22,6 +22,6 @@ Arada sırada kodlamayı seven bir insanım
 [![Discord](https://shields.io)](https://discord.gg)
 [![GitHub](https://shields.io)](https://github.com)
 
-* **Discord:** @kullanici_adiniz
+* **Discord:** @k_reren
 
 
