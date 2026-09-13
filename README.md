@@ -20,7 +20,7 @@ Arada sırada kodlamayı seven bir insanım
 ### 📬 İletişim & Linkler
 
 [![Discord](https://shields.io)](https://discord.gg)
-[![GitHub](https://shields.io)](https://github.com)
+[![GitHub](https://shields.io)](https://github.com/k10reren)
 
 * **Discord:** @k_reren
 
