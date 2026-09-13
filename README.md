@@ -19,6 +19,4 @@ Tersine Mühendislik: Process manipulation, bellek okuma/yazma (Memory Inspectio
 ### ✍️ Random Dev yazıları
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=k10reren&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
