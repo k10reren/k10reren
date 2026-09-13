@@ -1,8 +1,8 @@
 # 👋 Selam, Ben K_reren
-Arada sırada kodlamaya çalışan bir insanoğluyum
+## Arada sırada kodlamaya çalışan bir insanoğluyum
 # 🎯 İlgi Alanları & Çalışmalar
-Tersine Mühendislik: bellek okuma/yazma ve offset analizleri.
-(Halen öğrenme aşamasındayım)
+## Tersine Mühendislik: bellek okuma/yazma ve offset analizleri.
+## (Halen öğrenme aşamasındayım)
 # 💻 Bilgili olduğum kodlama programları:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Statları:
