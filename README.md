@@ -19,6 +19,11 @@ Arada sırada kodlamayı seven bir insanım
 
 ---
 
+### 🎯 Profil Özetim
+* 💻 **Kullanıcı:** k10reren  
+* 🚀 **Aktiflik:** Geliştirici profili aktif.  
+
+
 
 
 
